@@ -1,4 +1,4 @@
-package ocp_dip;
+package ocp;
 
 // @Configuration
 public class Config {

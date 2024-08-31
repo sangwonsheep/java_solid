@@ -1,4 +1,4 @@
-package ocp_dip;
+package ocp;
 
 public interface DiscountPolicy {
 }
